@@ -1,4 +1,8 @@
- table, th, td {
+body {
+  background-color: black;
+} 
+
+table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
   margin-left:auto; 
