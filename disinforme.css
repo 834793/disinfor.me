@@ -79,7 +79,6 @@ table, th, td {
 }
 
 #myInput {
-  background-image: url('disinforme_mini.PNG');
   background-color: white;
   background-position: 0px 0px;
   background-repeat: no-repeat;
@@ -95,7 +94,7 @@ table, th, td {
 #myTable {
   border-collapse: collapse;
   width: 95%;
-  border: 1px solid #333;
+  border: 1px solid #f9f9f9;
   font-size: 16px;
   margin: 32px;
 }
