@@ -79,9 +79,8 @@ table, th, td {
 }
 
 #myInput {
-  width: 100px;
-  height: 100px;
   background-image: url('disinforme_mini.PNG');
+  background-color: white;
   background-position: 0px 0px;
   background-repeat: no-repeat;
   width: 95%;
