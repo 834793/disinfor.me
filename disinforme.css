@@ -105,9 +105,9 @@ table, th, td {
 }
 
 #myTable tr {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #f9f9f9;
 }
 
 #myTable tr.header, #myTable tr:hover {
-  background-color: #333;
+  background-color: #f9f9f9;
 }
