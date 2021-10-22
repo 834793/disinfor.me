@@ -79,8 +79,8 @@ table, th, td {
 }
 
 #myInput {
-  width: 46px;
-  height: 44px;
+  width: 100px;
+  height: 100px;
   background-image: url('disinforme_mini.PNG');
   background-position: 0px 0px;
   background-repeat: no-repeat;
@@ -88,7 +88,7 @@ table, th, td {
   font-size: 12px;
   margin: 32px;
   padding: 12px 20px 12px 40px;
-  border: 1px solid #333;
+  border: 1px solid #f9f9f9;
   margin-bottom: 0px;
 }
 
@@ -113,18 +113,3 @@ table, th, td {
 #myTable tr.header, #myTable tr:hover {
   background-color: #333;
 }
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
