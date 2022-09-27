@@ -1,3 +1,11 @@
+.box {
+  overflow: hidden;
+  background-color: #f9f9f9;
+  border: 2px solid #f9f9f9;
+  border-radius: 5px;
+  margin: 0px;
+}
+
 body {
   background-color: black;
   font-size: 16px;
@@ -71,14 +79,6 @@ table, th, td {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-.box {
-  overflow: hidden;
-  background-color: #f9f9f9;
-  border: 2px solid #f9f9f9;
-  border-radius: 5px;
-  margin: 0px;
 }
 
 * {
