@@ -4,12 +4,6 @@ body {
   color: white;
 } 
 
-.box{
-  height: 50px;
-  width: 50px;
-  background-color: white;
-}
-
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -79,6 +73,11 @@ table, th, td {
   display: block;
 }
 
+.box{
+  height: 50px;
+  width: 50px;
+  background-color: white;
+}
 
 * {
   box-sizing: border-box;
