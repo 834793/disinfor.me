@@ -73,10 +73,12 @@ table, th, td {
   display: block;
 }
 
-.box{
-  height: 50px;
-  width: 50px;
-  background-color: green;
+.box {
+  overflow: hidden;
+  background-color: #f9f9f9;
+  border: 2px solid #f9f9f9;
+  border-radius: 5px;
+  margin: 0px;
 }
 
 * {
