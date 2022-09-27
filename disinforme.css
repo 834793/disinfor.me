@@ -76,7 +76,7 @@ table, th, td {
 .box{
   height: 50px;
   width: 50px;
-  background-color: white;
+  background-color: green;
 }
 
 * {
